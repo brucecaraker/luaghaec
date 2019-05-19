@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kaikeegozu.mictech.cz/sitemap.xml
